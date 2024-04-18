@@ -8,3 +8,5 @@ print(" задача" + " N1" + " выполнена ")
 print(" задача",end="")
 print(" N1",end="")
 print(" выполнена")
+print(" jjjj")
+
