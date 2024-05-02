@@ -1,10 +1,10 @@
 #Пользователь вводит Имя, Возраст и Город. Сформировать
 #приветственное сообщение путем форматирования 3мя способами
 
-name = input("введите имя ")
+name = input("введите имя ")# команда для ввода данных пользователем
 age = input("введите возраст ")
 city = input("введите город ")
-print(f"Hello,mister {name},you are {age} and we are happy meeting you in our {city}")
+print(f"Hello,mister {name},you are {age} and we are happy meeting you in our {city}")# использование f строки
 
 
 print("Hello,mister %s,you are %s and we are happy meeting you in our %s"%(name,age,city))
