@@ -25,9 +25,9 @@ def morze(text):
     return morse_str
 
 
-text=input("Введите текст только на английском!!!!!   ")
+text1=input("Введите текст только на английском!!!!!   ")
 
-print(morze(text))
+print(morze(text1))
 
 
 
